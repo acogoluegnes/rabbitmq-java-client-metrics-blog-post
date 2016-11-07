@@ -1,1 +1,1 @@
-# rabbitmq-java-client-metrics-blog-post
+# RabbitMQ Java Client Metrics Example
