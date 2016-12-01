@@ -32,25 +32,13 @@
         <dependency>
             <groupId>com.rabbitmq</groupId>
             <artifactId>amqp-client</artifactId>
-            <version>4.0.0.RC2</version>
+            <version>4.0.0</version>
         </dependency>
         <dependency>
             <groupId>io.dropwizard.metrics</groupId>
             <artifactId>metrics-core</artifactId>
         </dependency>
 
-
     </dependencies>
-
-    <repositories>
-        <repository>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-            <id>bintray-rabbitmq-maven-milestones</id>
-            <name>bintray</name>
-            <url>http://dl.bintray.com/rabbitmq/maven-milestones</url>
-        </repository>
-    </repositories>
 
 </project>
